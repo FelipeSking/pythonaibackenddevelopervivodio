@@ -53,4 +53,4 @@ def downgrade() -> None:
     op.drop_table('atletas')
     op.drop_table('centros_treinamento')
     op.drop_table('categorias')
-    # ### end Alembic commands ###
+   

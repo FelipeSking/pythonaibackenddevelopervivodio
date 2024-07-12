@@ -1,5 +1,3 @@
-Claro! Aqui está a versão aprimorada do seu README:
-
 ---
 
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
